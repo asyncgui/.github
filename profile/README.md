@@ -1,1 +1,1 @@
-PythonでのGUIプログラミングをasync/await構文によって書きやすくする。
+`asyncio`, `trio` に続くもう一つのasyncライブラリ
